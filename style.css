@@ -37,12 +37,12 @@ h1{
     margin: 30px;
       background-color: rgb(238,251,255);
     border-radius: 20px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3);
   
 }
 .experience-item{
   padding: 20px;
   border: 2px solid rgba(137,130,247,.2);
-  text-shadow: 2px 3px 5px #333;
 }
 .ep{
   color: #00ff00;
