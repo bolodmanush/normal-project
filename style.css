@@ -41,7 +41,8 @@ h1{
 }
 .experience-item{
   padding: 20px;
-  border-left: 2px solid rgba(137,130,247,.2);
+  border: 2px solid rgba(137,130,247,.2);
+  text-shadow: 2px 3px 5px #333;
 }
 .ep{
   color: #00ff00;
